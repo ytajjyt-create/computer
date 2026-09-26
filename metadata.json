@@ -1,0 +1,6 @@
+{
+  "name": "VALENCE COMPUTERS | Custom Rigs, High-Performance Systems & Components",
+  "description": "Premier destination for enthusiast custom PC builds, high-end gaming laptops, workstation hardware, and component architecture with live compatibility verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
